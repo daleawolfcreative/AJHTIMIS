@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Info AJH Timiș</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <img src="LOGOAJH.jpg" alt="Logo AJH Timiș" class="logo">
+  <nav>
+    <a href="index.html">Acasă</a>
+    <a href="echipe.html">Echipe</a>
+    <a href="arbitri.html">Arbitri</a>
+  </nav>
+</header>
+
+<section class="info">
+  <h1>Program delegări și anunțuri AJH</h1>
+  <ul>
+    <li>20 noiembrie 2025: Meci CSU Reșița vs Dacia Mioveni, Sala Polivalenta, ora 18:00</li>
+    <li>25 noiembrie 2025: Ședință Comisia de Arbitri, sediul AJH, ora 15:00</li>
+    <li>30 noiembrie 2025: Publicare clasament juniori feminin</li>
+  </ul>
+</section>
+
+<footer>
+  <p>&copy; 2025 AJH Timiș | Dalea Wolf Creative</p>
+</footer>
+</body>
+</html>

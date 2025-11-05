@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rapoarte AJH Timiș</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <img src="LOGOAJH.jpg" alt="Logo AJH Timiș" class="logo">
+  <nav>
+    <a href="index.html">Acasă</a>
+    <a href="echipe.html">Echipe</a>
+    <a href="arbitri.html">Arbitri</a>
+  </nav>
+</header>
+
+<section class="rapoarte">
+  <h1>Rapoarte jocuri / PDF-uri oficiale</h1>
+  <ul>
+    <li><a href="rapoarte/raport_meci1.pdf" target="_blank">Raport CSU Reșița vs Dacia Mioveni</a></li>
+    <li><a href="rapoarte/raport_meci2.pdf" target="_blank">Raport UVT Timișoara vs CSU Reșița</a></li>
+  </ul>
+</section>
+
+<footer>
+  <p>&copy; 2025 AJH Timiș | Dalea Wolf Creative</p>
+</footer>
+</body>
+</html>

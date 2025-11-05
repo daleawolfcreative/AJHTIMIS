@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Blog AJH Timiș</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <img src="LOGOAJH.jpg" alt="Logo AJH Timiș" class="logo">
+  <nav>
+    <a href="index.html">Acasă</a>
+    <a href="echipe.html">Echipe</a>
+    <a href="arbitri.html">Arbitri</a>
+  </nav>
+</header>
+
+<section class="blog">
+  <h1>Meciuri importante</h1>
+  <article>
+    <h2>CSU Reșița vs Dacia Mioveni 2025</h2>
+    <p>Rezultatul: 28-25. A fost un meci spectaculos...</p>
+  </article>
+  <article>
+    <h2>UVT Timișoara vs CSU Reșița</h2>
+    <p>Rezultatul: 22-30. CSU Reșița a dominat pe teren...</p>
+  </article>
+</section>
+
+<footer>
+  <p>&copy; 2025 AJH Timiș | Dalea Wolf Creative</p>
+</footer>
+</body>
+</html>

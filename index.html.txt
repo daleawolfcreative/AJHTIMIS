@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Asociația Județeană de Handbal Timiș</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <img src="LOGOAJH.jpg" alt="Logo AJH Timiș" class="logo">
+  <nav>
+    <a href="index.html">Acasă</a>
+    <a href="echipe.html">Echipe</a>
+    <a href="arbitri.html">Arbitri</a>
+    <a href="sali.html">Săli</a>
+    <a href="blog.html">Blog</a>
+    <a href="rapoarte.html">Rapoarte</a>
+    <a href="info.html">Info AJH</a>
+  </nav>
+</header>
+
+<div class="hero">
+  <h1>Asociația Județeană de Handbal Timiș</h1>
+  <p>Promovăm performanța și spiritul handbalului în județul Timiș</p>
+</div>
+
+<section class="comisii">
+  <h2>Comisia Județeană de Competiții</h2>
+  <ul>
+    <li>Președinte – Amariei Andrada</li>
+    <li>Secretar – Galgoczi Melissa</li>
+    <li>Membri – Ivașcu Doriana, Hotca Emanuel</li>
+  </ul>
+  
+  <h2>Comisia Județeană de Arbitri</h2>
+  <ul>
+    <li>Președinte – Tătaru Cătălin</li>
+    <li>Secretar – Țăranu Denisa</li>
+    <li>Membru – Banfi Csaba</li>
+  </ul>
+</section>
+
+<footer>
+  <p>&copy; 2025 Asociația Județeană de Handbal Timiș | Toate drepturile rezervate Dalea Wolf Creative</p>
+</footer>
+</body>
+</html>

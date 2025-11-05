@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Arbitri AJH Timiș</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <img src="LOGOAJH.jpg" alt="Logo AJH Timiș" class="logo">
+  <nav>
+    <a href="index.html">Acasă</a>
+    <a href="echipe.html">Echipe</a>
+    <a href="arbitri.html">Arbitri</a>
+    <a href="sali.html">Săli</a>
+    <a href="blog.html">Blog</a>
+    <a href="rapoarte.html">Rapoarte</a>
+    <a href="info.html">Info AJH</a>
+  </nav>
+</header>
+
+<section class="arbitri">
+  <h1>Arbitri AJH Timiș</h1>
+  <ul>
+    <li><a href="arbitru1.html">Tătaru Cătălin</a></li>
+    <li><a href="#">Țăranu Denisa</a></li>
+    <li><a href="#">Banfi Csaba</a></li>
+  </ul>
+</section>
+
+<footer>
+  <p>&copy; 2025 AJH Timiș | Dalea Wolf Creative</p>
+</footer>
+</body>
+</html>
